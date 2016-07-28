@@ -29,7 +29,7 @@ include "lib.php";
     	http://unsplash.com
     	http://absurdwordpreferred.deviantart.com/art/FREE-Cogs-Transparent-PNG-145452644
     -->
-	<title>AWS Demo Web Application</title>
+	<title>AWS Demo1 Web Application</title>
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
 	<meta charset="UTF-8">
